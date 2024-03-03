@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RYANMK12 and I'm 11 years old!
-- 👀 I’m like coding in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Machine Learning
-- 📫 How to reach me ***********
+- 👋 Hi, I’m BasBuilder
+- 👀 I like coding in C++
+- 🌱 I’m a C++ self taught student
+- 💞I'm aiming to get into the gaming industry
 
 <!---
 RYANMK12/RYANMK12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
